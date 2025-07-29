@@ -1,24 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-         if(prices.length > 100 && prices[0] == 397) return 9995;
-        if(prices.length > 100 && prices[0] == 10000) return 3;
-        if(prices.length > 100 && prices[0] == 9973) return 0;
-        if(prices.length > 100 && prices[0] == 5507) return 9972;
-        if(prices.length > 100) return 999;
-
-        int minprice = Integer.MAX_VALUE;
-        int maxprofit = 0;
-        for(int i=0;i<prices.length;i++)
-        {
-            if(prices[i]<minprice)
-            {
-                minprice = prices[i];
-            }
-            else{
-                int profit = prices[i]-minprice;
-                maxprofit = Math.max(maxprofit,profit);
+        int buy = prices[0];
+        int profit = 0;
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
             }
         }
-        return maxprofit;
+        return profit;
     }
 }
