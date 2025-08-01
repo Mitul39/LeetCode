@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Mitul39/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Mitul39/LeetCode/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Mitul39/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mitul39/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mitul39/LeetCode/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Two Pointers
