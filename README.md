@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Two Pointers
 |  |
 | ------- |
