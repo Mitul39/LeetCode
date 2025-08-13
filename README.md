@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mitul39/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Mitul39/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Mitul39/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mitul39/LeetCode/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Mitul39/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
