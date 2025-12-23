@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mitul39/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Mitul39/LeetCode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitul39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Mitul39/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Mitul39/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Stack
 |  |
