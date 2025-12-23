@@ -36,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mitul39/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mitul39/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Mitul39/LeetCode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mitul39/LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Mitul39/LeetCode/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mitul39/LeetCode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Two Pointers
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
