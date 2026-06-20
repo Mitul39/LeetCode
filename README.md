@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mitul39/LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mitul39/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mitul39/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Mitul39/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Mitul39/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
