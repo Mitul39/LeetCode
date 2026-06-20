@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mitul39/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mitul39/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mitul39/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mitul39/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mitul39/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mitul39/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/Mitul39/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mitul39/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mitul39/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
