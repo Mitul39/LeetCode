@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mitul39/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Mitul39/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mitul39/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mitul39/LeetCode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mitul39/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Mitul39/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Mitul39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mitul39/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mitul39/LeetCode/tree/master/0242-valid-anagram) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -118,10 +120,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mitul39/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mitul39/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mitul39/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mitul39/LeetCode/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Mitul39/LeetCode/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mitul39/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mitul39/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
