@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mitul39/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Mitul39/LeetCode/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mitul39/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Mitul39/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mitul39/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mitul39/LeetCode/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Mitul39/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
