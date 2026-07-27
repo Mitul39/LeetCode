@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Mitul39/LeetCode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Mitul39/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mitul39/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Mitul39/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Mitul39/LeetCode/tree/master/0509-fibonacci-number) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Mitul39/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Mitul39/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mitul39/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Mitul39/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mitul39/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Mitul39/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mitul39/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Mitul39/LeetCode/tree/master/0392-is-subsequence) |
 | [0855-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Mitul39/LeetCode/tree/master/0855-count-unique-characters-of-all-substrings-of-a-given-string) |
 ## Stack
 |  |
