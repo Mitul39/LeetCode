@@ -5,7 +5,7 @@ public:
         int n = s.size() , m = t.size();
 
         if(n==0) return true;
-        while(i<=n && j<m){
+        while(i<n && j<m){
             if(s[i]==t[j]){
                 i++;
                 j++;
