@@ -8,11 +8,8 @@ public:
         while(i<n && j<m){
             if(s[i]==t[j]){
                 i++;
-                j++;
             }
-            else{
                 j++;
-            }
         }
     return i == n;
     }
